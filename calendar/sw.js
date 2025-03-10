@@ -2,7 +2,7 @@ const cacheName = 'myanmar-calendar-v1';
 const staticAssets = [
     './',
     './index.html',
-    './style.css',
+    './styles.css',
     './font/padauk.eot',
     './font/padauk.ttf',
     './font/padauk.woff',
