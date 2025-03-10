@@ -1,0 +1,40 @@
+{
+    "short_name": "ပြက္ခဒိန်",
+    "name": "Myanmar Calendar",
+    "icons": [
+      {
+        "src": "./img/icon192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./img/icon512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "id": "myanmar-calendar-v1",
+    "start_url": "/calendar/index.html",
+    "background_color": "#3367D6",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/calendar/",
+    "orientation": "any",
+    "shortcuts": [
+      {
+        "name": "Myanmar Calendar!",
+        "short_name": "ပြက္ခဒိန်",
+        "description": "A calendar app with Myanmar Date and Sabbath date calculation and holiday also!",
+        "url": "https://sha85.github.io/calendar/",
+        "icons": [{ "src": "./img/icon192.png", "sizes": "192x192" }]
+      }
+    ],
+    "description": "A calendar app with Myanmar Date and Sabbath date calculation and holiday also!",
+    "screenshots": [
+      {
+        "src": "./img/screen.png",
+        "type": "image/png",
+        "sizes": "679x688"
+      }
+    ]
+}
