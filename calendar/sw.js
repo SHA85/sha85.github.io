@@ -3,6 +3,7 @@ const staticAssets = [
     './',
     './index.html',
     './styles.css',
+    './calendar.js',
     './font/padauk.eot',
     './font/padauk.ttf',
     './font/padauk.woff',
